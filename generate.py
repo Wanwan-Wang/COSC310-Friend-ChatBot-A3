@@ -48,7 +48,7 @@ def generate(intputSen,doc2,answer):
         # at least 5 different  reasonable responses when the user enters something outside the two topics
         listReply = ['Sorry your question is not included in my database','Sorry, I do not know how to reply that',
         'Whoops! my brain is dead, may be next question','Pass that bro, I cannot remember', 
-        'This question is too difficult, next question please','Your question is hard for me, sorry abour that']
+        'This question is too difficult, next question please','Your question is hard for me, sorry about that']
         replyOutsideTopic = random.choice(listReply)
         print(replyOutsideTopic)
         return replyOutsideTopic
