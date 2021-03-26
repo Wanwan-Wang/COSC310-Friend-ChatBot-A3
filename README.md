@@ -18,4 +18,4 @@ pip install -U textblob
 ## How to run the code
 run [socket_server.py](https://github.com/COSC310-A2-Team10/COSC310-Friend-ChatBot-A3/blob/main/socket_server.py) first to create a server for project,
 
-then using Command Prompt run [chatbox.py](https://github.com/COSC310-A2-Team10/COSC310-Friend-ChatBot-A3/blob/main/chatbox.py)
+then using Command Prompt run [chatbotClient.py](https://github.com/COSC310-A2-Team10/COSC310-Friend-ChatBot-A3/blob/main/chatbotClient.py)
