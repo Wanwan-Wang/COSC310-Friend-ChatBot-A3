@@ -1,5 +1,0 @@
-nltk
--U spacy
-pyspellchecker
--U textblob
-python -m spacy download en_core_web_lg
