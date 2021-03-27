@@ -1,2 +1,5 @@
-#Dev
-# Add any libraries that must first be installed (e.g. pyperclip or pygame)
+pip install nltk
+pip install -U spacy
+python -m spacy download en_core_web_lg
+pip install pyspellchecker
+pip install -U textblob
