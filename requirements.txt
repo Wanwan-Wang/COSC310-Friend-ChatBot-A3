@@ -1,5 +1,5 @@
-pip install nltk
-pip install -U spacy
+nltk
+-U spacy
+pyspellchecker
+-U textblob
 python -m spacy download en_core_web_lg
-pip install pyspellchecker
-pip install -U textblob
