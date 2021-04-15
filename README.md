@@ -63,3 +63,4 @@ I'm sorry QAQ!
 
 ## GUI and Examples
 <img src="https://raw.githubusercontent.com/COSC310-A2-Team10/COSC310-Friend-ChatBot-A3/main/GUI(1).jpg" width="500" height="700">
+<img src="https://github.com/Wanwan-Wang/310-Individual/blob/main/Screenshot%202021-04-14%20213004.png" width="500" height="700">
